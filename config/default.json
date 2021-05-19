@@ -1,0 +1,7 @@
+{
+    "db":   "mongodb+srv://logicfab-waqas-khalid:YcH4HtS7@cluster0.qyivx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "apiEndPoint": "http://localhost:3002",
+    "frontEndUrl":"http://localhost:3000",
+    "jwtprivatekey": "key"
+    
+}
